@@ -5,7 +5,7 @@
 import SwiftUI
 
 @main
-struct BuildTinderAppApp: App {
+struct BuildRecruitMe: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

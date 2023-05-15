@@ -35,10 +35,6 @@ struct FullScreenCardView: View {
                                 Text(person.name)
                                     .font(.system(size: 32, weight: .heavy))
                                 
-//                                Text(String(person.age))
-//                                    .font(.system(size: 28, weight: .light))
-                        
-                                
                                 Spacer()
                             }
                             .opacity(0.75)

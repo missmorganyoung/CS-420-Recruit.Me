@@ -1,6 +1,6 @@
 //  RecruitMe mobile app
 //  Created by Morgan Young
-// ContentView
+//  ContentView
 
 import SwiftUI
 

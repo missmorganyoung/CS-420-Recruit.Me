@@ -6,7 +6,7 @@
 
 import SwiftUI
 
-struct LikesView: View {
+struct MarketplaceView: View {
     @EnvironmentObject var userMng: UserManager
     @EnvironmentObject var appState: AppStateManager
     
@@ -55,7 +55,7 @@ struct LikesView: View {
     }
 }
 
-struct LikesView_Previews: PreviewProvider {
+struct MarketplaceView_Previews: PreviewProvider {
     static var previews: some View {
         LikesView()
             .environmentObject(UserManager())

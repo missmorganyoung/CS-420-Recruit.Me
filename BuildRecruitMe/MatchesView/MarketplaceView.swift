@@ -1,6 +1,8 @@
 //  RecruitMe mobile app
 //  Created by Morgan Young
-//  LikesView
+//  MarketplaceView
+
+// the Resources Marketplace
 
 import SwiftUI
 
